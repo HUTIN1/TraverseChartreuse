@@ -16,6 +16,10 @@
 	- peu demander au resto ou camping
 	- fontaine de la charmette (45° 15′ 32″ N 5° 46′ 43″ E)
 
+# Col de Porte
+- il y a tout
+- bus [N62](HORAIRES_N62_2025-03-31.pdf) y passe
+
 # Plenom
 - juste à coté du La Pinea
 - fontaine à eau (Lon: 5.7426, Lat: 45.2892) (à l'air de fonctionné)

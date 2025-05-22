@@ -18,13 +18,13 @@
 
 # Plenom
 - juste à coté du La Pinea
-- fontaine à eau (45° 17′ 21″ N 5° 44′ 33″ E) (à l'air de fonctionné)
+- fontaine à eau (Lon: 5.7426, Lat: 45.2892) (à l'air de fonctionné)
 
 # Charmant Som
 - buvette au parking juste avant la monté
 
 # Fontaine de Frettevielle 
-- fontaine à eau (45° 19′ 51″ N 5° 47′ 30″ E)(à l'air de bien fonctionné)
+- fontaine à eau (Lon: 5.79168, Lat: 45.33073) (à l'air de bien fonctionné)
 
 # Saint Pierre de Chartreuse
 - à 40 km de Grenoble
@@ -32,6 +32,13 @@
 - des hotels
 - bouf 
 	 - SPAR (fermé de 12h15 à 15h)
+
+
+# Abrevoir Col de la Ruchère
+- Lon: 5.79765, Lat: 45.38641
+
+# Fontaine - Ruisseau du Bruyant
+- Lon: 5.79928, Lat: 45.39988
 
 # Saint Pierre d'Entremont
 - grosse ville à 60 km de Grenoble

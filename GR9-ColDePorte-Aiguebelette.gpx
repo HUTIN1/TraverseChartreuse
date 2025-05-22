@@ -14,40 +14,15 @@
 • Bus</desc>
     <type>gare</type>
   </wpt>
-  <wpt lat="45.191013" lon="5.714275">
-    <ele>211.3</ele>
-    <name>Gare de Grenoble</name>
-    <desc>• Trains
-• Bus</desc>
-    <type>gare</type>
-  </wpt>
   <wpt lat="45.539914" lon="5.779449">
-    <ele>380.3</ele>
+    <ele>382</ele>
     <name>Camping Le Curtelet</name>
+    <cmt>04 79 44 11 22 
+campinglecurtelet@onlycamp.fr</cmt>
     <desc>04 79 44 11 22 
 campinglecurtelet@onlycamp.fr</desc>
+    <sym>Campground</sym>
     <type>camping</type>
-  </wpt>
-  <wpt lat="45.190321" lon="5.730132">
-    <ele>212</ele>
-    <name>Office de Tourisme Grenoble Alpes</name>
-    <desc>04 76 42 41 41
-info@grenoble-tourisme.com</desc>
-    <type>info</type>
-  </wpt>
-  <wpt lat="45.260113" lon="5.777607">
-    <ele>1004.4</ele>
-    <name>Bureau d&apos;information Touristique du Sappey-en-Chartreuse</name>
-    <desc>04 76 88 84 05
-info@grenoble-tourisme.com</desc>
-    <type>info</type>
-  </wpt>
-  <wpt lat="45.341572" lon="5.815796">
-    <ele>883.5</ele>
-    <name>Office de Tourisme Coeur de Chartreuse</name>
-    <desc>04 76 88 62 08
-info@coeurchartreuse-tourisme.com</desc>
-    <type>info</type>
   </wpt>
   <wpt lat="45.415201" lon="5.854812">
     <ele>643.2</ele>
@@ -57,33 +32,14 @@ info@coeurchartreuse-tourisme.com</desc>
     <type>info</type>
   </wpt>
   <wpt lat="45.435713" lon="5.755441">
-    <ele>384.2</ele>
+    <ele>387.5488986314747</ele>
     <name>Bureau d&apos;Information Touristique des Échelles</name>
+    <cmt>04 79 36 56 24
+info@coeurchartreuse-tourisme.com</cmt>
     <desc>04 79 36 56 24
 info@coeurchartreuse-tourisme.com</desc>
+    <sym>Information</sym>
     <type>info</type>
-  </wpt>
-  <wpt lat="45.574102" lon="5.801108">
-    <ele>375</ele>
-    <name>Office de Tourisme du Lac d&apos;Aiguebelette</name>
-    <desc>04 79 36 00 02 
-info-lac@pays-lac-aiguebelette.com</desc>
-    <type>info</type>
-  </wpt>
-  <wpt lat="45.54501" lon="5.767763">
-    <ele>378.1</ele>
-    <name>Hôtel-restaurant Les lodges du lac</name>
-    <desc>04 79 36 00 10
-06 02 01 09 36</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.511427" lon="5.770596">
-    <ele>536.9</ele>
-    <name>Chambres d’hôtes Les Grands champs</name>
-    <desc>04 79 44 41 85
-07 62 28 19 13
-cat@lesgrandschamps.fr</desc>
-    <type>hotel</type>
   </wpt>
   <wpt lat="45.507888" lon="5.776137">
     <ele>593.8</ele>
@@ -96,45 +52,6 @@ cat@lesgrandschamps.fr</desc>
     <name>Camping Le Signal</name>
     <desc>04 79 36 07 29</desc>
     <type>camping</type>
-  </wpt>
-  <wpt lat="45.434753" lon="5.756782">
-    <ele>385</ele>
-    <name>Camping*** L’Arc-en-Ciel</name>
-    <desc>06 45 76 77 80
-info@camping-arc-en-ciel.com</desc>
-    <type>camping</type>
-  </wpt>
-  <wpt lat="45.449878" lon="5.778589">
-    <ele>419</ele>
-    <name>Gîte de la Cure gourmande</name>
-    <desc>04 79 84 40 86</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.436822" lon="5.77198">
-    <ele>406.1</ele>
-    <name>Chambres d’hôtes Les Grands Arbres</name>
-    <desc>06 21 35 61 77
-scatelan@yahoo.fr</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.456228" lon="5.812562">
-    <ele>604.2</ele>
-    <name>Camping La Bruyère</name>
-    <desc>06 09 06 50 35
-contact@camping-labruyere-savoie.com</desc>
-    <type>camping</type>
-  </wpt>
-  <wpt lat="45.414931" lon="5.855386">
-    <ele>649.5</ele>
-    <name>Gîte Le Moulin des Chartreux</name>
-    <desc>04 79 65 94 77</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.413224" lon="5.854318">
-    <ele>648.8</ele>
-    <name>Gîte L’Herbe Tendre</name>
-    <desc>04 79 65 14 76</desc>
-    <type>hotel</type>
   </wpt>
   <wpt lat="45.413803" lon="5.854383">
     <ele>646</ele>
@@ -150,46 +67,15 @@ contact@campingducozon.fr</desc>
     <type>camping</type>
   </wpt>
   <wpt lat="45.408327" lon="5.796973">
-    <ele>1158.9</ele>
+    <ele>1168.041687130184</ele>
     <name>Gîte d’étape La Ruche à gîter</name>
+    <cmt>04 76 06 38 21
+06 21 18 32 68
+contact@la-ruche-a-giter.fr</cmt>
     <desc>04 76 06 38 21
 06 21 18 32 68
 contact@la-ruche-a-giter.fr</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.341942" lon="5.814026">
-    <ele>877.4</ele>
-    <name>Gîte Résidence Rochemay</name>
-    <desc>04 76 43 81 17
-06 27 28 16 06
-contact@residence-rochemay.com</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.341846" lon="5.814849">
-    <ele>881.9</ele>
-    <name>Gîte Le Petit Chartreux</name>
-    <desc>06 64 90 53 31
-lepetitchartreux@outlook.fr</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.348098" lon="5.818495">
-    <ele>938.9</ele>
-    <name>Gîte La Cime des Sapins</name>
-    <desc>06 33 08 63 20
-christophe@lesclesdechartreuse.fr</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.342392" lon="5.816612">
-    <ele>900.7</ele>
-    <name>Chambre d’hôtes Le Grand Chalet</name>
-    <desc>06 78 66 87 02</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.337737" lon="5.802621">
-    <ele>870.4</ele>
-    <name>Chambres d’hôtes Le ValOmbré</name>
-    <desc>06 19 76 15 12
-veronica@le-valombre.fr</desc>
+    <sym>Lodging</sym>
     <type>hotel</type>
   </wpt>
   <wpt lat="45.33359" lon="5.812368">
@@ -213,146 +99,78 @@ leschaletssainthugues@gmail.com</desc>
 camping-de-martiniere@orange.fr</desc>
     <type>camping</type>
   </wpt>
-  <wpt lat="45.325605" lon="5.796994">
-    <ele>889.8</ele>
-    <name>Auberge de l’Âtre Fleuri</name>
-    <desc>04 76 88 60 21
-contact@atrefleuri.fr</desc>
-    <type>hotel</type>
-  </wpt>
   <wpt lat="45.290522" lon="5.766835">
-    <ele>1323.6</ele>
+    <ele>1327.2956909318339</ele>
     <name>Gîte d’étape Chalet jaune</name>
+    <cmt>06 81 86 74 08
+chaletjaunechartreuse@gmail.com</cmt>
     <desc>06 81 86 74 08
 chaletjaunechartreuse@gmail.com</desc>
+    <sym>Lodging</sym>
     <type>hotel</type>
   </wpt>
   <wpt lat="45.290265" lon="5.767468">
-    <ele>1315.6</ele>
+    <ele>1327.0024373788729</ele>
     <name>Hôtel-restaurant** Cartusia</name>
+    <cmt>04 76 88 83 18
+hotel.cartusia@wanadoo.fr</cmt>
     <desc>04 76 88 83 18
 hotel.cartusia@wanadoo.fr</desc>
+    <sym>Hotel</sym>
     <type>hotel</type>
   </wpt>
   <wpt lat="45.289514" lon="5.767152">
-    <ele>1325.1</ele>
+    <ele>1332.019617698808</ele>
     <name>Hôtel et gîte d’étape Domaine de Rozan</name>
+    <cmt>06 45 02 19 31
+contact@domainederozan.com</cmt>
     <desc>06 45 02 19 31
 contact@domainederozan.com</desc>
+    <sym>Hotel</sym>
     <type>hotel</type>
-  </wpt>
-  <wpt lat="45.263126" lon="5.777135">
-    <ele>1028.2</ele>
-    <name>Hôtel-Restaurant** Les skieurs</name>
-    <desc>04 76 88 82 76</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.261827" lon="5.781051">
-    <ele>1058.5</ele>
-    <name>Chambres d&apos;hôtes Coeur Neige</name>
-    <desc>06 70 04 36 76
-coeurdeneige@orange.fr</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.260452" lon="5.774968">
-    <ele>1005.3</ele>
-    <name>Camping municipal La Virette</name>
-    <desc>06 33 41 41 56
-camping@sappey-mairie.fr</desc>
-    <type>camping</type>
-  </wpt>
-  <wpt lat="45.192962" lon="5.726098">
-    <ele>212.3</ele>
-    <name>Téléphérique de Grenoble Bastille</name>
-    <type>telecabine</type>
-  </wpt>
-  <wpt lat="45.193016" lon="5.728329">
-    <ele>213</ele>
-    <name>Place Saint-André</name>
-    <desc>• Quartiers historiques</desc>
-    <type>patrimoine_rural</type>
-  </wpt>
-  <wpt lat="45.198569" lon="5.724639">
-    <ele>474.1</ele>
-    <name>Fort de la Bastille</name>
-    <desc>• Patrimoine historique et militaire
-• Musée des troupes de montagne</desc>
-    <type>patrimoine</type>
-  </wpt>
-  <wpt lat="45.19872" lon="5.725282">
-    <ele>481.5</ele>
-    <name>Belvédère de la Bastille</name>
-    <type>vue</type>
-  </wpt>
-  <wpt lat="45.203678" lon="5.724317">
-    <ele>620.6</ele>
-    <name>Mont Jalla</name>
-    <type>vue</type>
-  </wpt>
-  <wpt lat="45.263235" lon="5.769668">
-    <ele>1000.9</ele>
-    <name>Espace Naturel Sensible</name>
-    <desc>Espace Naturel Sensible du Marais des Sagnes.</desc>
-    <type>patrimoine_vegetal</type>
-  </wpt>
-  <wpt lat="45.234963" lon="5.762533">
-    <ele>1332</ele>
-    <name>Fort du Saint-Eynard</name>
-    <desc>• Patrimoine historique et militaire
-• Exposition permanente</desc>
-    <type>patrimoine</type>
-  </wpt>
-  <wpt lat="45.23502" lon="5.764786">
-    <ele>1296.5</ele>
-    <name>Point de vue du Fort de Saint-Eynard</name>
-    <type>vue</type>
   </wpt>
   <wpt lat="45.288194" lon="5.738404">
-    <ele>1733.6</ele>
+    <ele>1732.5040758393036</ele>
     <name>La Pinéa (1771 m)</name>
+    <sym>Binoculars</sym>
     <type>vue</type>
   </wpt>
   <wpt lat="45.288626" lon="5.739031">
-    <ele>1731.8</ele>
+    <ele>1718.939492712486</ele>
     <name>Passage délicat</name>
+    <sym>Alert</sym>
     <type>danger</type>
   </wpt>
   <wpt lat="45.311184" lon="5.754948">
-    <ele>1639</ele>
+    <ele>1639.0593461297285</ele>
     <name>Oratoire d&apos;Orgeval</name>
+    <cmt>• Ancienne limite du Désert des Chartreux
+• Table d&apos;orientation</cmt>
     <desc>• Ancienne limite du Désert des Chartreux
 • Table d&apos;orientation</desc>
+    <sym>Information</sym>
     <type>vue</type>
   </wpt>
   <wpt lat="45.320213" lon="5.7616">
-    <ele>1740.2</ele>
+    <ele>1733.6556657915244</ele>
     <name>Alpage</name>
+    <cmt>Alpage en activité, merci de respecter le berger et son troupeau.</cmt>
     <desc>Alpage en activité, merci de respecter le berger et son troupeau.</desc>
+    <sym>Information</sym>
     <type>alarm</type>
   </wpt>
   <wpt lat="45.325343" lon="5.770118">
-    <ele>1562.9</ele>
+    <ele>1568.4148935091223</ele>
     <name>Passage délicat</name>
+    <cmt>Dalles du Charmant Som.</cmt>
     <desc>Dalles du Charmant Som.</desc>
+    <sym>Alert</sym>
     <type>danger</type>
   </wpt>
   <wpt lat="45.325067" lon="5.764185">
-    <ele>1860.8</ele>
+    <ele>1850.7422924787513</ele>
     <name>Charmant Som (1867 m)</name>
-    <type>vue</type>
-  </wpt>
-  <wpt lat="45.323272" lon="5.806006">
-    <ele>883.6</ele>
-    <name>Pépites en Chartreuse, patrimoine et savoir-faire</name>
-    <desc>Musée Arcabas : musée et site culturel
-• Visite culturelle
-• Concerts, évènements
-• Ateliers découverte</desc>
-    <type>star</type>
-  </wpt>
-  <wpt lat="45.343043" lon="5.820029">
-    <ele>1000.8</ele>
-    <name>Chapelle Notre-Dame-du-Rosaire</name>
+    <sym>Binoculars</sym>
     <type>vue</type>
   </wpt>
   <wpt lat="45.36351" lon="5.793604">
@@ -386,19 +204,17 @@ camping@sappey-mairie.fr</desc>
     <type>vue</type>
   </wpt>
   <wpt lat="45.362985" lon="5.800534">
-    <ele>1194.8</ele>
+    <ele>1215.2126508115355</ele>
     <name>Point de vue sur le Monastère</name>
-    <type>vue</type>
-  </wpt>
-  <wpt lat="45.337086" lon="5.817368">
-    <ele>931.6</ele>
-    <name>Point de vue</name>
+    <sym>Binoculars</sym>
     <type>vue</type>
   </wpt>
   <wpt lat="45.383562" lon="5.808356">
-    <ele>1563.2</ele>
+    <ele>1562.9802897468037</ele>
     <name>Passage délicat</name>
+    <cmt>Prudence par temps humide.</cmt>
     <desc>Prudence par temps humide.</desc>
+    <sym>Alert</sym>
     <type>danger</type>
   </wpt>
   <wpt lat="45.413816" lon="5.826981">
@@ -416,33 +232,12 @@ camping@sappey-mairie.fr</desc>
     <name>Ruines du Château de Montbel</name>
     <type>patrimoine_rural</type>
   </wpt>
-  <wpt lat="45.429363" lon="5.824229">
-    <ele>849.3</ele>
-    <name>Point de vue</name>
-    <type>vue</type>
-  </wpt>
-  <wpt lat="45.440464" lon="5.789323">
-    <ele>522.9</ele>
-    <name>Point de vue</name>
-    <type>vue</type>
-  </wpt>
-  <wpt lat="45.446672" lon="5.785546">
-    <ele>584.3</ele>
-    <name>Point de vue sur Saint-Chritophe la Grotte</name>
-    <type>vue</type>
-  </wpt>
-  <wpt lat="45.45286" lon="5.791726">
-    <ele>536</ele>
-    <name>Pépites en Chartreuse, patrimoine et savoir-faire</name>
-    <desc>Grottes de Saint-Christophe : musée et site culturel
-• Visite culturelle
-• Restauration l&apos;été</desc>
-    <type>star</type>
-  </wpt>
   <wpt lat="45.462782" lon="5.766983">
-    <ele>699.6</ele>
+    <ele>705.0088629499445</ele>
     <name>Belvédère de l&apos;Écolu</name>
+    <cmt>Vaste panorama sur le massif de la Chartreuse.</cmt>
     <desc>Vaste panorama sur le massif de la Chartreuse.</desc>
+    <sym>Binoculars</sym>
     <type>vue</type>
   </wpt>
   <wpt lat="45.545419" lon="5.796833">
@@ -466,21 +261,19 @@ camping@sappey-mairie.fr</desc>
     <type>plage</type>
   </wpt>
   <wpt lat="45.511925" lon="5.750849">
-    <ele>578.3</ele>
+    <ele>585.1465813552688</ele>
     <name>Point de vue</name>
+    <cmt>Vue sur l&apos;ensemble du massif du Mont-Grêle.</cmt>
     <desc>Vue sur l&apos;ensemble du massif du Mont-Grêle.</desc>
-    <type>vue</type>
-  </wpt>
-  <wpt lat="45.503745" lon="5.774249">
-    <ele>609.7</ele>
-    <name>Point de vue</name>
-    <desc>Vue sur la Grande Sûre.</desc>
+    <sym>Binoculars</sym>
     <type>vue</type>
   </wpt>
   <wpt lat="45.448434" lon="5.761567">
-    <ele>529.7</ele>
+    <ele>524.4234895658359</ele>
     <name>Chapelle et Belvédère de la Madeleine</name>
+    <cmt>Panorama sur le versant ouest du massif de la Chartreuse et les échancrures, dans les falaises, de la voie sarde et des gorges de l&apos;Échaillon.</cmt>
     <desc>Panorama sur le versant ouest du massif de la Chartreuse et les échancrures, dans les falaises, de la voie sarde et des gorges de l&apos;Échaillon.</desc>
+    <sym>Binoculars</sym>
     <type>vue</type>
   </wpt>
   <wpt lat="45.441698" lon="5.78398">
@@ -490,93 +283,36 @@ camping@sappey-mairie.fr</desc>
     <type>danger</type>
   </wpt>
   <wpt lat="45.373575" lon="5.801725">
-    <ele>1385.5</ele>
+    <ele>1412.1445886693584</ele>
     <name>Passage délicat</name>
+    <cmt>Descente glissante par temps humide.</cmt>
     <desc>Descente glissante par temps humide.</desc>
+    <sym>Alert</sym>
     <type>danger</type>
   </wpt>
   <wpt lat="45.380509" lon="5.805781">
-    <ele>1396.9</ele>
+    <ele>1409.4021491718484</ele>
     <name>Zone de silence</name>
+    <cmt>Merci de respecter la zone de silence du Monastère.</cmt>
     <desc>Merci de respecter la zone de silence du Monastère.</desc>
+    <sym>Information</sym>
     <type>danger</type>
   </wpt>
-  <wpt lat="45.190083" lon="5.720873">
-    <ele>212</ele>
-    <name>Restauration / Ravitallement</name>
-    <desc>À Grenoble, vous trouverez des restaurants, cafés, et magasins pour vous ravitailler selon leurs horaires d&apos;ouverture.</desc>
-    <type>restaurant</type>
-  </wpt>
-  <wpt lat="45.191179" lon="5.723401">
-    <ele>211.8</ele>
-    <name>Distributeurs et banques</name>
-    <desc>À Grenoble, vous trouverez plusieurs banques et distributeurs.</desc>
-    <type>banque</type>
-  </wpt>
-  <wpt lat="45.19095" lon="5.726148">
-    <ele>211.1</ele>
-    <name>Hébergements</name>
-    <desc>À Grenoble, vous trouverez des hébergements.</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.234181" lon="5.751191">
-    <ele>776.2</ele>
-    <name>Arrêt de bus</name>
-    <desc>Ligne : T62
-Arrêt : Col de Vence</desc>
-    <type>bus</type>
-  </wpt>
-  <wpt lat="45.25714" lon="5.777858">
-    <ele>983.1</ele>
-    <name>Gîte le Chant de l&apos;eau</name>
-    <desc>04 76 88 83 16</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.259743" lon="5.777317">
-    <ele>1000.5</ele>
-    <name>Arrêt de bus</name>
-    <desc>Ligne : T62
-Arrêt : Place</desc>
-    <type>bus</type>
-  </wpt>
-  <wpt lat="45.260378" lon="5.777178">
-    <ele>1006.2</ele>
-    <name>Pépites en Chartreuse, patrimoine et savoir-faire</name>
-    <desc>Douceur Cerise : création artisanale
-• Visites
-• Ateliers découverte</desc>
-    <type>star</type>
-  </wpt>
-  <wpt lat="45.261736" lon="5.777081">
-    <ele>1017</ele>
-    <name>Restauration / Ravitallement</name>
-    <desc>Au Sappey-en-Chartreuse, vous trouverez des restaurants, cafés, et magasins pour vous ravitailler selon leurs horaires d&apos;ouverture.</desc>
-    <type>restaurant</type>
-  </wpt>
-  <wpt lat="45.294426" lon="5.764603">
-    <ele>1327.5</ele>
-    <name>Résidence Les 3 sommets</name>
-    <desc>06 28 49 35 33
-06 69 16 60 40</desc>
-    <type>hotel</type>
-  </wpt>
   <wpt lat="45.304403" lon="5.746234">
-    <ele>1644.6</ele>
+    <ele>1648.0742410198036</ele>
     <name>Zone Natura 2000</name>
+    <cmt>L&apos;itinéraire quitte la zone Natura 2000 du Charmant Som.</cmt>
     <desc>L&apos;itinéraire quitte la zone Natura 2000 du Charmant Som.</desc>
+    <sym>Information</sym>
     <type>patrimoine_vegetal</type>
   </wpt>
   <wpt lat="45.327314" lon="5.771942">
-    <ele>1527.3</ele>
+    <ele>1521.959697783139</ele>
     <name>Zone Natura 2000</name>
+    <cmt>L&apos;itinéraire entre dans la zone Natura 2000 du Charmant Som.</cmt>
     <desc>L&apos;itinéraire entre dans la zone Natura 2000 du Charmant Som.</desc>
+    <sym>Information</sym>
     <type>patrimoine_vegetal</type>
-  </wpt>
-  <wpt lat="45.340119" lon="5.810061">
-    <ele>808.1</ele>
-    <name>Gîte le Chalet Koch</name>
-    <desc>06 81 83 89 39</desc>
-    <type>hotel</type>
   </wpt>
   <wpt lat="45.342166" lon="5.81453">
     <ele>881</ele>
@@ -591,28 +327,6 @@ Arrêt : Place</desc>
 Arrêt : Plan de Ville</desc>
     <type>bus</type>
   </wpt>
-  <wpt lat="45.342528" lon="5.814402">
-    <ele>882</ele>
-    <name>Pépites en Chartreuse, patrimoine et savoir-faire</name>
-    <desc>Badiane Créations : création artisanale
-• Visite de l&apos;atelier
-• Atelier-boutique</desc>
-    <type>star</type>
-  </wpt>
-  <wpt lat="45.342818" lon="5.814578">
-    <ele>883.6</ele>
-    <name>Pépites en Chartreuse, patrimoine et savoir-faire</name>
-    <desc>Artisan Glacier l&apos;Éclat des Cimes : fabrication artisanale
-• Visites
-• Ateliers</desc>
-    <type>star</type>
-  </wpt>
-  <wpt lat="45.407383" lon="5.8595">
-    <ele>767.9</ele>
-    <name>Gîte La P&apos;tite Lulu</name>
-    <desc>06 43 35 07 04</desc>
-    <type>hotel</type>
-  </wpt>
   <wpt lat="45.415178" lon="5.855005">
     <ele>643</ele>
     <name>Arrêt de bus</name>
@@ -626,74 +340,38 @@ Arrêt : Office de Tourisme</desc>
     <desc>À Saint-Pierre-d&apos;Entremont, vous trouverez des restaurants, cafés, et magasins pour vous ravitailler selon leurs horaires d&apos;ouverture.</desc>
     <type>restaurant</type>
   </wpt>
-  <wpt lat="45.417738" lon="5.855048">
-    <ele>639.5</ele>
-    <name>Distributeur automatique de billets</name>
-    <type>banque</type>
-  </wpt>
-  <wpt lat="45.425605" lon="5.863459">
-    <ele>693.5</ele>
-    <name>Gîte La Sabaudia</name>
-    <desc>06 33 08 63 20
-christophe@lesclesdechartreuse.fr</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.426678" lon="5.86266">
-    <ele>701.7</ele>
-    <name>Chambres d’hôtes La Chouette à l’heure du Pinson</name>
-    <desc>04 79 84 03 45</desc>
-    <type>hotel</type>
-  </wpt>
   <wpt lat="45.38641" lon="5.797498">
-    <ele>1413.5</ele>
+    <ele>1421.7931026922988</ele>
     <name>Alpages</name>
+    <cmt>L&apos;itinéraire traverse plusieurs alpages en activité. Merci de respecter le berger et son troupeau, et d&apos;adopter le comportement adéquat vis-à-vis des patous.</cmt>
     <desc>L&apos;itinéraire traverse plusieurs alpages en activité. Merci de respecter le berger et son troupeau, et d&apos;adopter le comportement adéquat vis-à-vis des patous.</desc>
+    <sym>Information</sym>
     <type>alarm</type>
   </wpt>
-  <wpt lat="45.341784" lon="5.815925">
-    <ele>887.7</ele>
-    <name>Distributeur automatique de billets</name>
-    <type>banque</type>
-  </wpt>
-  <wpt lat="45.449356" lon="5.784506">
-    <ele>420.8</ele>
-    <name>Pépites en Chartreuse, patrimoine et savoir-faire</name>
-    <desc>L&apos;abeille de Chartreuse : fabrication artisanale
-• Visites de miellerie 
-• 1/2 journées de découverte des abeilles et leur monde</desc>
-    <type>star</type>
-  </wpt>
-  <wpt lat="45.433955" lon="5.754991">
-    <ele>385.9</ele>
-    <name>Pépites en Chartreuse, patrimoine et savoir-faire</name>
-    <desc>Un nuage de sucre : fabrication artisanale 
-• Atelier-boutique
-• Visites et dégustations</desc>
-    <type>star</type>
-  </wpt>
   <wpt lat="45.437889" lon="5.752029">
-    <ele>385.3</ele>
+    <ele>387.2232080875438</ele>
     <name>Arrêt du Bus</name>
+    <cmt>Ligne : T41
+Arrêt : Place</cmt>
     <desc>Ligne : T41
 Arrêt : Place</desc>
+    <sym>Ground Transportation</sym>
     <type>bus</type>
   </wpt>
   <wpt lat="45.487115" lon="5.781448">
-    <ele>767.5</ele>
+    <ele>771.2462505221129</ele>
     <name>Passage délicat</name>
+    <cmt>Risque de glissade en cas de pluie.</cmt>
     <desc>Risque de glissade en cas de pluie.</desc>
+    <sym>Alert</sym>
     <type>danger</type>
   </wpt>
-  <wpt lat="45.541414" lon="5.765141">
-    <ele>379.5</ele>
-    <name>Distributeurs et banques</name>
-    <desc>À Lépin-le-Lac, vous trouverez banque et distributeur de billets.</desc>
-    <type>banque</type>
-  </wpt>
   <wpt lat="45.541218" lon="5.763885">
-    <ele>379</ele>
+    <ele>381.10000000000036</ele>
     <name>Restauration / Ravitallement</name>
+    <cmt>À Lépin-le-Lac, vous trouverez restaurants, cafés, et magasins pour vous ravitailler selon leurs horaires d&apos;ouverture.</cmt>
     <desc>À Lépin-le-Lac, vous trouverez restaurants, cafés, et magasins pour vous ravitailler selon leurs horaires d&apos;ouverture.</desc>
+    <sym>Convenience Store</sym>
     <type>restaurant</type>
   </wpt>
   <wpt lat="45.448025" lon="5.797945">
@@ -709,31 +387,44 @@ Arrêt : Place</desc>
     <type>patrimoine_vegetal</type>
   </wpt>
   <wpt lat="45.289947" lon="5.767007">
-    <ele>1322.7</ele>
+    <ele>1331.1746526720012</ele>
     <name>Arrêt de bus</name>
+    <cmt>Ligne : 6550
+Arrêt : Col de Porte</cmt>
     <desc>Ligne : 6550
 Arrêt : Col de Porte</desc>
+    <sym>Ground Transportation</sym>
     <type>bus</type>
-  </wpt>
-  <wpt lat="45.341845" lon="5.813779">
-    <ele>875.5</ele>
-    <name>Hôtel le Beau Site</name>
-    <desc>04 38 02 10 12
-hbeausite@gmail.com</desc>
-    <type>hotel</type>
-  </wpt>
-  <wpt lat="45.436292" lon="5.757823">
-    <ele>386</ele>
-    <name>Base naturelle de loisirs Rivier&apos;Alp</name>
-    <desc>• Piscine naturelle écologique
-• Jeux aqua-ludiques
-• Promenades découvertes
-• Animations l&apos;été</desc>
   </wpt>
   <wpt lat="45.399018" lon="5.843996">
     <ele>876.1</ele>
     <name>Chambres d&apos;hôtes l&apos;Ancienne école du Villard</name>
     <type>hotel</type>
+  </wpt>
+  <wpt lat="45.319366" lon="5.756764">
+    <ele>1674.1053376688624</ele>
+    <name>Buvette</name>
+    <sym>Convenience Store</sym>
+  </wpt>
+  <wpt lat="45.2892" lon="5.7426">
+    <ele>1580.4005492416584</ele>
+    <name>Fontaine d&apos;eau</name>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="45.33073" lon="5.79168">
+    <ele>1088.447067596224</ele>
+    <name>Fontaine de Frettevielle</name>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="45.38641" lon="5.79765">
+    <ele>1421.9720496147183</ele>
+    <name>Abrevoir</name>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="45.39988" lon="5.79928">
+    <ele>1141.5864834039019</ele>
+    <name>Ruisseau</name>
+    <sym>Water Source</sym>
   </wpt>
   <trk>
     <name>GR9-ColDePorte-Aiguebelette</name>

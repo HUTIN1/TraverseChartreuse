@@ -426,6 +426,17 @@ Arrêt : Col de Porte</desc>
     <name>Ruisseau</name>
     <sym>Water Source</sym>
   </wpt>
+  <wpt lat="45.3822" lon="5.81263">
+    <ele>1641.8917588036563</ele>
+    <name>Refuge Habert de Bovinant</name>
+    <sym>Lodging</sym>
+  </wpt>
+  <wpt lat="45.478036" lon="5.787115">
+    <ele>1042.1317294486767</ele>
+    <name>Ruisseau de la pisserotte</name>
+    <cmt>Bon lieu pour dormir</cmt>
+    <desc>Bon lieu pour dormir</desc>
+  </wpt>
   <trk>
     <name>GR9-ColDePorte-Aiguebelette</name>
     <extensions>

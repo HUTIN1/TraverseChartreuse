@@ -36,6 +36,10 @@
 - des hotels
 - bouf 
 	 - SPAR (fermé de 12h15 à 15h)
+	 
+# Habert de Bovinant
+- cabane non gardé
+- bon lieu pour dormir le premier jour
 
 
 # Abrevoir Col de la Ruchère
@@ -58,6 +62,8 @@
 - bouf
 	- SPAR / épicerie bio
 
+# Ruisseau de la pisserotte 
+- on peut dormir le second jour
 
 # Source d'info
 - [Eau+Cabane+Refuge](https://www.refuges.info/nav/2/massif/Chartreuse/)

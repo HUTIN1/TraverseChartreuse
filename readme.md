@@ -24,6 +24,7 @@
 ## Habert de Bovinant
 - cabane non gardé
 - bon lieu pour dormir le premier jour
+- location lat 45.3822 , long 5.81263
 
 # 2ieme Jour
 ## Abrevoir Col de la Ruchère
@@ -47,7 +48,8 @@
 	- SPAR / épicerie bio
 
 ## Ruisseau de la pisserotte 
-- on peut dormir le second jour
+- on peut dormir le second jour, il y a une source d'eau mais ce n'est surement pas plat
+- location lat : 45.478036 , long : 5.787115
 
 # 3ieme Jour
 ## Camping le curtelet
